@@ -1,4 +1,6 @@
 payload:
+   - 'push.apple.com‘
+
   # 汇丰集团
   - 'hsbc.com.hk'                 # 汇丰银行香港官网 [citation:3][citation:4]
   - 'payme.hsbc.com.hk'           # 汇丰PayMe服务 [citation:3]
