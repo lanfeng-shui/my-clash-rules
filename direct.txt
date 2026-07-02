@@ -1,0 +1,34 @@
+payload:
+  # 汇丰集团
+  - 'hsbc.com.hk'                 # 汇丰银行香港官网 [citation:3][citation:4]
+  - 'payme.hsbc.com.hk'           # 汇丰PayMe服务 [citation:3]
+  - 'about.hsbc.com.hk'           # 汇丰集团香港 [citation:3]
+  - 'business.hsbc.com.hk'        # 汇丰商务 [citation:3]
+  - 'personal.hsbc.com.hk'        # 汇丰个人理财 [citation:3]
+  - 'ebanking.hsbc.com.hk'        # 汇丰网上理财 [citation:3]
+
+  # 中银香港
+  - 'bochk.com'                   # 中银香港 [citation:9]
+  - 'bochkprivates.com'           # 中银香港相关域 [citation:9]
+
+  # 其他主要银行
+  - 'citibank.com.hk'             # 花旗银行 [citation:1][citation:2]
+  - 'dbs.com.hk'                  # 星展银行 (东亚银行) [citation:1][citation:2]
+  - 'fubonbank.com.hk'            # 富邦银行 [citation:1][citation:2]
+  - 'ncb.com.hk'                  # 南洋商业银行 [citation:1][citation:2]
+  - 'ocbc.com.hk'                 # 华侨银行 [citation:1][citation:2]
+  - 'publicbank.com.hk'           # 大众银行 [citation:1][citation:2]
+  - 'shacombank.com.hk'           # 上海商业银行 [citation:1][citation:2][citation:8]
+  - 'shamcobank.com.hk'           # 上海商业银行 (同) [citation:8]
+  - 'taisangbank.com.hk'          # 大生银行 [citation:1][citation:2]
+  - 'tybhk.com.hk'                # 大有银行 [citation:1][citation:2]
+  - 'hk.cmbc.com.cn'              # 民生银行香港分行 [citation:5]
+
+  # 数字银行
+  - 'antbank.hk'                  # 蚂蚁银行 [citation:1][citation:2]
+  - 'paob.com.hk'                 # PAObank [citation:1][citation:2]
+  - 'airstarbank.com'             # 天星银行 [citation:7]
+  - 'yuantabank.com.hk'           # 元大银行 (香港) [citation:6]
+
+  # 其他相关
+  - 'publicbank.com.hk'           # 大众银行 [citation:1][citation:2]
