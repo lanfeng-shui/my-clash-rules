@@ -1,6 +1,5 @@
 payload:
   # 手动添加
-  - '+.xui.lanfeng.xyz'
   - '+.push.apple.com'
 
   # 汇丰集团
